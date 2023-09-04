@@ -7,12 +7,11 @@
 > * 每次陀螺碰撞減少轉速並隨機減少穩定定。
 
 ## 加速度計與陀螺儀感測器(Mpu6050)
-![image]()
-
+![image](https://github.com/zzziwwwei/spinning-top/blob/main/Mpu6050.jpg)
 
 ## 實例(開4個實例展示，能中途加入與中斷連線)
 ![image]()
-[完整影片]()
+[完整影片](https://drive.google.com/file/d/1ThbF6pD3_05FYGPYYjKqjQHmnOGtCAG-/view?usp=drive_link)
 
 
 
