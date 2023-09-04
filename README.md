@@ -11,7 +11,7 @@
 > * 3軸加速度+3軸陀螺儀。
 > * -32768 --- +32768。
 ## 實例(開4個實例展示，能中途加入與中斷連線)
-![image](https://github.com/zzziwwwei/spinning-top/blob/main/%E9%99%80%E8%9E%BA.gif)
+> * ![image](https://github.com/zzziwwwei/spinning-top/blob/main/%E9%99%80%E8%9E%BA.gif)
 > * [完整影片](https://drive.google.com/file/d/1ThbF6pD3_05FYGPYYjKqjQHmnOGtCAG-/view?usp=drive_link)
 
 
